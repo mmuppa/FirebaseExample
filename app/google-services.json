@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "268062407888",
+    "firebase_url": "https://fir-example-e1812.firebaseio.com",
+    "project_id": "fir-example-e1812",
+    "storage_bucket": "fir-example-e1812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268062407888:android:06bade2fa466b628",
+        "android_client_info": {
+          "package_name": "edu.uw.tacoma.mmuppa.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268062407888-j6vo1nmcj52321mqp20kd4to4mti2e5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uw.tacoma.mmuppa.firebaseexample",
+            "certificate_hash": "59eea22c65f169c1ce2c70a834af3e789bc55984"
+          }
+        },
+        {
+          "client_id": "268062407888-ol5585lbjo2n6c0ksvvuklpkudqg0lm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxFT7xH98sSvffiT_yXJwW6WrLUt6ZXTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268062407888-ol5585lbjo2n6c0ksvvuklpkudqg0lm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
