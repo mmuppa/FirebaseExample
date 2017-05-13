@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "268062407888-pg6htgqgqi2db53m59opbhvuo070mv99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uw.tacoma.mmuppa.firebaseexample",
+            "certificate_hash": "53907b30046712533cda893bcf7c7df23bd43259"
+          }
+        },
+        {
           "client_id": "268062407888-j6vo1nmcj52321mqp20kd4to4mti2e5j.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
